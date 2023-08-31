@@ -1,0 +1,17 @@
+{
+    "name": "tamodaleko/acme-cart",
+    "description": "Shopping cart management",
+    "type": "library",
+    "autoload": {
+        "psr-4": {
+            "Tamodaleko\\AcmeCart\\": "src/"
+        }
+    },
+    "authors": [
+        {
+            "name": "dejan-prole",
+            "email": "shimids89@gmail.com"
+        }
+    ],
+    "require": {}
+}
